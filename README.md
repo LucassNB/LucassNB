@@ -12,7 +12,7 @@
 
 - 👯 Estou procurando colaborar em **Desenvolvedor/Programador Full Stack**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [Perfil: LucassNB](Perfil: LucassNB)
+- 👨‍💻 Todos os meus projetos estão disponíveis em Perfil: LucassNB
 
 - 💬 Pergunte-me sobre **React, TypeScript, JavaScript, HTML, CSS e Angular**
 
